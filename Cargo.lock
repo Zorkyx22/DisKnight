@@ -298,7 +298,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "dis_knight"
+name = "dis-knight"
 version = "0.1.0"
 dependencies = [
  "serenity",
