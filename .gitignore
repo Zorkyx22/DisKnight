@@ -1,3 +1,4 @@
 /target
 setup_env.sh
-Secrets.toml
+.shuttle-storage
+Secrets*.toml
